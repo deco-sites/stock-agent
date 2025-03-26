@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://stock-agent-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "eb85e50822d4a69212b9c3d9e8ec2e6ee75cd8a631cca69cab87fdee608d68a376a7f6fe197ba666d5e12d2ef9af8cf825db39a3807470e4f6e90b8efbe33abeaff8c7b21a48a58ae8cd3f6ca64d38556e6ef5210a340d1d46785fe4918ee99a861d5920eb0fcf847f00475c00abe58538b3019a67f84c29e05a3a49859b0dd73215256dcf9062ff1785e468fcbba7a66977b2a024796a6e4e6fe684b9ed83e0a5de42cfe91886034853c808f0b4abb9739ae925e0b133dd6fceb0fcc1cd894d12f769d809a71ce98eb200dc07a818cd77927bacc8b09380fd2524675a595f3c"
+  }
+}
