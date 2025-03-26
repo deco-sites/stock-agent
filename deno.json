@@ -41,7 +41,8 @@
     "@deco/htmx": "https://denopkg.com/deco-cx/apps@0.59.1/htmx/mod.ts",
     "drizzle-orm": "https://esm.sh/drizzle-orm@0.30.10",
     "drizzle-orm/": "https://esm.sh/drizzle-orm@0.30.10/",
-    "drizzle-kit": "https://esm.sh/drizzle-kit@0.21.2"
+    "drizzle-kit": "https://esm.sh/drizzle-kit@0.21.2",
+    "@deco/deco": "jsr:@deco/deco@1.110.0"
   },
   "tasks": {
     "start": "deno run -A --unstable-http --env https://deco.cx/run -- deno task dev",
